@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bkyuksel
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Node JS, PHP
-- 💞️ I’m looking to collaborate on Backend Development
-- 📫 How to reach me @bkyuksel
+- 🌱 I’m currently learning Javascript, PHP
+- 💞️ I’m looking to collaborate on Frontend Development
+- 📫 How to reach me www.bkyuksel.com.tr
 
 <!---
 bkyuksel/bkyuksel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
