@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bkyuksel
-- 🌱 I’m currently learning Javascript, PHP
-- 💞️ I’m looking to collaborate on Frontend Development
+- 🌱 IT System Administrator
 - 📫 How to reach me www.bkyuksel.com.tr
 
 <!---
